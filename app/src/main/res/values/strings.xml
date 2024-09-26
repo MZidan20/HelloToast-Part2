@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="button_label_count">count</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="count_initial_value">0</string>
+    <string name="text_header">halaman-kedua\n</string>
+    <string name="button_label_pindah">switch page\n</string>
+    <string name="button_label_browser">label-browser\n</string>
+</resources>
+
+
